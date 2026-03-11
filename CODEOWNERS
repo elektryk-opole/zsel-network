@@ -1,11 +1,11 @@
 # zsel-network CODEOWNERS
 
-mikrotik/                 @network-team @network-leads
-vlans/                    @network-team
-vpn/                      @network-team @security-team
-dns/                      @network-team @platform-team
-firewall/                 @network-team @security-team
+mikrotik/                 @network-team @network-leads @lkolo-prez
+vlans/                    @network-team @lkolo-prez
+vpn/                      @network-team @security-team @lkolo-prez
+dns/                      @network-team @platform-team @lkolo-prez
+firewall/                 @network-team @security-team @lkolo-prez
 
-documentation/            @network-team
+documentation/            @network-team @lkolo-prez
 
-CONTRIBUTING.md           @network-team
+CONTRIBUTING.md           @network-team @lkolo-prez
