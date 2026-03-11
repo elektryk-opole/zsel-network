@@ -1,0 +1,11 @@
+# zsel-network CODEOWNERS
+
+mikrotik/                 @network-team @network-leads
+vlans/                    @network-team
+vpn/                      @network-team @security-team
+dns/                      @network-team @platform-team
+firewall/                 @network-team @security-team
+
+documentation/            @network-team
+
+CONTRIBUTING.md           @network-team
